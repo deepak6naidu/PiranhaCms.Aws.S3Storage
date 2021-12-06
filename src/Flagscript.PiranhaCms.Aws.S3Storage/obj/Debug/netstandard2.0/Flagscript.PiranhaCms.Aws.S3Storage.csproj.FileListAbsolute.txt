@@ -1,0 +1,9 @@
+C:\repos\Flagscript.PiranhaCms.Aws.S3Storage-master\src\Flagscript.PiranhaCms.Aws.S3Storage\bin\Debug\netstandard2.0\Flagscript.PiranhaCms.Aws.S3Storage.deps.json
+C:\repos\Flagscript.PiranhaCms.Aws.S3Storage-master\src\Flagscript.PiranhaCms.Aws.S3Storage\bin\Debug\netstandard2.0\Flagscript.PiranhaCms.Aws.S3Storage.dll
+C:\repos\Flagscript.PiranhaCms.Aws.S3Storage-master\src\Flagscript.PiranhaCms.Aws.S3Storage\bin\Debug\netstandard2.0\Flagscript.PiranhaCms.Aws.S3Storage.pdb
+C:\repos\Flagscript.PiranhaCms.Aws.S3Storage-master\src\Flagscript.PiranhaCms.Aws.S3Storage\obj\Debug\netstandard2.0\Flagscript.PiranhaCms.Aws.S3Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Flagscript.PiranhaCms.Aws.S3Storage-master\src\Flagscript.PiranhaCms.Aws.S3Storage\obj\Debug\netstandard2.0\Flagscript.PiranhaCms.Aws.S3Storage.AssemblyInfoInputs.cache
+C:\repos\Flagscript.PiranhaCms.Aws.S3Storage-master\src\Flagscript.PiranhaCms.Aws.S3Storage\obj\Debug\netstandard2.0\Flagscript.PiranhaCms.Aws.S3Storage.AssemblyInfo.cs
+C:\repos\Flagscript.PiranhaCms.Aws.S3Storage-master\src\Flagscript.PiranhaCms.Aws.S3Storage\obj\Debug\netstandard2.0\Flagscript.PiranhaCms.Aws.S3Storage.csproj.CoreCompileInputs.cache
+C:\repos\Flagscript.PiranhaCms.Aws.S3Storage-master\src\Flagscript.PiranhaCms.Aws.S3Storage\obj\Debug\netstandard2.0\Flagscript.PiranhaCms.Aws.S3Storage.dll
+C:\repos\Flagscript.PiranhaCms.Aws.S3Storage-master\src\Flagscript.PiranhaCms.Aws.S3Storage\obj\Debug\netstandard2.0\Flagscript.PiranhaCms.Aws.S3Storage.pdb

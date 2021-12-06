@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Flagscript.PiranhaCms.Aws.S3Storage
+build_property.ProjectDir = C:\repos\Flagscript.PiranhaCms.Aws.S3Storage-master\src\Flagscript.PiranhaCms.Aws.S3Storage\
