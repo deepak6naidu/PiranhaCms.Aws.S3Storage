@@ -41,22 +41,6 @@ Flagscript.PiranhaCms.Aws.S3Storage is available as a NuGet package:
 ```xml
 <PackageReference Include="Flagscript.PiranhaCms.Aws.S3Storage" Version="1.0.1" />
 ```
-
-## Contributing
-
-Although contributions for this project are not yet open, please read 
-[CONTRIBUTING](https://github.com/flagscript/Flagscript.Piranha.Aws.S3Storage/blob/master/CONTRIBUTING.md) 
-for details on our code of conduct.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see 
-the [tags on this repository](https://github.com/flagscript/Flagscript.PiranhaCms.Aws.S3Storage/releases). 
-
-## Authors
-
-* **Greg Kaestle** - [Flagscript](https://flagscript.technology)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/flagscript/Flagscript.PiranhaCms.Aws.S3Storage/blob/master/LICENSE.md) file for details.
