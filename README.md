@@ -1,3 +1,5 @@
+Updated to work with latest Piranha CMS
+
 # Flagscript.PiranhaCms.Aws.S3Storage
 
 S3/Cloudfront Media Provider for [Piranha CMS](http://piranhacms.org).
